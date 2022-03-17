@@ -1,0 +1,31 @@
+h1 {
+					font-family: cursive;
+					font-size: 100px;
+					text-align: center;
+					color: white;
+}
+h4 {
+					font-size: 50px;
+					text-align: center;
+					font-family: cursive;
+					color: white;
+}
+p{
+					font-family: serif;
+					font-size: 30px;
+					text-align: center;
+					color: white;
+}
+a {
+					color: pink;
+}
+h2 {
+					color: darkcyan;
+					font-size: 50px;
+					text-align: center;
+					font-family: monospace;
+}
+html { background: url(src/Blur.jpeg) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
+div {
+					text-align: center;
+}
